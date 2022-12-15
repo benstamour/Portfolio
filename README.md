@@ -1,6 +1,11 @@
 Benjamin St. Amour's Portfolio
 ==============================
 
+[The Dungeon](https://github.com/benstamour/dungeon-game)
+===========
+
+This project is a 3D dungeon platformer game made in Unity, where the player must navigate a series of deadly obstacles in order to get to the end, with the optional additional challenge of collecting each of the ten blue orbs placed along the player's route. The goal is to make it to the end as fast as possible! I designed and created the dungeon arena using assets from the Unity Asset Store, and I also worked with scripting, GUI, and animations. The repository contains a link to download the build and instructions to play the game alongside the source code, and **[this page](https://bensta.epizy.com/dungeon/)** also features the download link with some images of the game and a list of assets I used.
+
 [Maximum Matching for Bipartite Graphs](https://github.com/benstamour/maximum-matching)
 =======================================================================================
 
